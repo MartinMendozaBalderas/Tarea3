@@ -1,0 +1,28 @@
+
+<table style="text-align:center"><caption><strong>Tabla Comparativa de regresión Ventas ~ Precio + Publicidad</strong></caption>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="4"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="4" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="4">Ventas ~ Precio + Publicidad</td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Precio</td><td>-7.908</td><td>-7.829</td><td></td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(1.096)</td><td>(1.143)</td><td></td><td></td></tr>
+<tr><td style="text-align:left"></td><td>t = -7.215</td><td>t = -6.850</td><td></td><td></td></tr>
+<tr><td style="text-align:left"></td><td>p = 0.000<sup>***</sup></td><td>p = 0.000<sup>***</sup></td><td></td><td></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Publicidad</td><td>1.863</td><td></td><td>1.733</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(0.683)</td><td></td><td>(0.890)</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>t = 2.726</td><td></td><td>t = 1.946</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>p = 0.009<sup>***</sup></td><td></td><td>p = 0.056<sup>*</sup></td><td></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td>118.914</td><td>121.900</td><td>74.180</td><td>77.375</td></tr>
+<tr><td style="text-align:left"></td><td>(6.352)</td><td>(6.526)</td><td>(1.799)</td><td>(0.749)</td></tr>
+<tr><td style="text-align:left"></td><td>t = 18.722</td><td>t = 18.678</td><td>t = 41.234</td><td>t = 103.272</td></tr>
+<tr><td style="text-align:left"></td><td>p = 0.000<sup>***</sup></td><td>p = 0.000<sup>***</sup></td><td>p = 0.000<sup>***</sup></td><td>p = 0.000<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>75</td><td>75</td><td>75</td><td>75</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.448</td><td>0.391</td><td>0.049</td><td>0.000</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>0.433</td><td>0.383</td><td>0.036</td><td>0.000</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>4.886 (df = 72)</td><td>5.097 (df = 73)</td><td>6.370 (df = 73)</td><td>6.489 (df = 74)</td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>29.248<sup>***</sup> (df = 2; 72)</td><td>46.928<sup>***</sup> (df = 1; 73)</td><td>3.787<sup>*</sup> (df = 1; 73)</td><td></td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="4" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>
